@@ -1,3 +1,3 @@
 # Lab07
 
-usign giphy api.
+using giphy api.
